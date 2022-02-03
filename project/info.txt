@@ -1,0 +1,36 @@
+HEADER    MEMBRANE PROTEIN                        30-JAN-12   2LP1              
+TITLE     THE SOLUTION NMR STRUCTURE OF THE TRANSMEMBRANE C-TERMINAL DOMAIN OF  
+TITLE    2 THE AMYLOID PRECURSOR PROTEIN (C99)                                  
+COMPND    MOL_ID: 1;    
+SEQRES   1 A  122  MET ASP ALA GLU PHE ARG HIS ASP SER GLY TYR GLU VAL          
+SEQRES   2 A  122  HIS HIS GLN LYS LEU VAL PHE PHE ALA GLU ASP VAL GLY          
+SEQRES   3 A  122  SER ASN LYS GLY ALA ILE ILE GLY LEU MET VAL GLY GLY          
+SEQRES   4 A  122  VAL VAL ILE ALA THR VAL ILE VAL ILE THR LEU VAL MET          
+SEQRES   5 A  122  LEU LYS LYS LYS GLN TYR THR SER ILE HIS HIS GLY VAL          
+SEQRES   6 A  122  VAL GLU VAL ASP ALA ALA VAL THR PRO GLU GLU ARG HIS          
+SEQRES   7 A  122  LEU SER LYS MET GLN GLN ASN GLY TYR GLU ASN PRO THR          
+SEQRES   8 A  122  TYR LYS PHE PHE GLU GLN MET GLN ASN GLN GLY ARG ILE          
+SEQRES   9 A  122  LEU GLN ILE SER ILE THR LEU ALA ALA ALA LEU GLU HIS          
+SEQRES  10 A  122  HIS HIS HIS HIS HIS                                          
+SEQRES   1 B   20  LEU GLN ILE SER ILE THR LEU ALA ALA ALA LEU GLU HIS
+SEQRES   2 B   20  LEU GLN ILE SER ILE THR LEU
+SEQRES   1 C   13  LEU GLN ILE SER ILE THR LEU ALA ALA ALA LEU GLU HIS
+HELIX    1   1 LYS A  687  GLY A  696  5                                  10    
+HELIX    2   2 GLY A  700  GLY A  708  1                                   9    
+HELIX    3   3 GLY A  708  LYS A  724  1                                  17    
+HELIX    1   1 LYS B  687  GLY B  696  5                                  10
+HELIX    2   2 LYS B  687  GLY B  696  5                                  10
+HELIX    1   1 LYS C  687  GLY C  696  5                                  10
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+SHEET    1   A 2 ASN A   2  PHE A   3  0                                        
+SHEET    2   A 2 LEU A 128  GLU A 129 -1  O  GLU A 129   N  ASN A   2           
+SHEET    1   B 6 ARG A  49  ARG A  52  0                                        
+SHEET    2   B 6 GLN A  14  ILE A  19  1  N  ILE A  15   O  ARG A  49           
+SHEET    3   B 6 ILE A  60  GLY A  65  1  O  ILE A  62   N  ARG A  18           
+SHEET    4   B 6 SER A  96  ASP A  99  1  O  PHE A  98   N  GLY A  65           
+SHEET    5   B 6 ALA A  83  PHE A  86 -1  N  HIS A  84   O  HIS A  97           
+SHEET    6   B 6 ALA B   7  LEU B   8  1  O  LEU B   8   N  ALA A  85           
+SHEET    1   C 2 TRP A 104  THR A 105  0                                        
+SHEET    2   C 2 TYR A 112  SER A 113  1  O  TYR A 112   N  THR A 105           
+LINK         NE2 HIS A  69                ZN    ZN A 416     1555   1555  2.01  
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
