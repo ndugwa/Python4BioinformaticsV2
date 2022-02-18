@@ -191,7 +191,7 @@ def gene_file(file1,file2):
     with open(file1,'r') as file:
         with open(file2,'w')as myfile:
             count=0
-            flag=False      
+            flag=True      
             for line in file:
             # print(line)
                 if line.startswith('_____'):
